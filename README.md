@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Sujon</h1>
 <h3 align="center">Crafting modern web experiences with MERN Stack</h3>
 
-- 🔭 I’m currently working on [Islamic Corner](https://incomparable-cannoli-db65ba.netlify.app/)
+- 🔭 I’m currently working on Web App Development
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **React, Js**
+- 💬 Ask me about **ReactJs, JavaScript**
 
 - 📫 How to reach me **mdsujon.islam21161@gmail.com**
 
