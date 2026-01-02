@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Sujon</h1>
-<h3 align="center">Crafting modern web experiences with MERN Stack</h3>
+<h3 align="center">Passionate Web Developer focused on clean code</h3>
 
 - 🔭 I’m currently working on Web App Development
 
