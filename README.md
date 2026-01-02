@@ -19,10 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsujonislam666&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mdsujonislam666" /></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdsujonislam666&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
-
 <h3 align="left">👀 Profile Visitors</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdsujonislam666&label=Profile%20views&color=0e75b6&style=flat" alt="mdsujonislam666" />
