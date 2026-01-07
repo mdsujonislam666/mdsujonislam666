@@ -6,6 +6,7 @@
 <h1 align="center">Hi 👋, I'm Md Sujon</h1>
 <h3 align="center">Passionate Web Developer focused on clean code</h3>
 
+<h3 align="left">👀 Current Status</h3>
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **NextJs**
 - 💬 Ask me about **ReactJs, JavaScript**
@@ -52,9 +53,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsujonislam666&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
 
 <h3 align="left">👀 Profile Visitors</h3>
 <p align="left">
