@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="[https://i.ibb.co/7N6sY1y/github-banner.png](https://www.linkedin.com/in/md-shoayeb-islam-4a8a653a2/)" alt="GitHub Banner" />
+  <img src="https://i.ibb.co.com/V0bRrnCW/Blue-and-White-Modern-Business-Profile-Linked-In-Banner-1.png" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Sujon</h1>
