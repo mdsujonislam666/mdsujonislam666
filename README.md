@@ -17,20 +17,26 @@
 <p align="left">
   <!-- GitHub -->
   <a href="https://github.com/mdsujonislam666" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
       alt="github"
       height="30"
       width="40"
       style="background-color:#0A66C2; padding:6px; border-radius:6px;"
-      alt="github" height="30" width="40" />
+    />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/md-shoayeb-islam-29b7393a4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="linkedin" height="30" width="40" />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      alt="linkedin"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
+
 
 
 
