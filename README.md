@@ -18,6 +18,10 @@
   <!-- GitHub -->
   <a href="https://github.com/mdsujonislam666" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      alt="github"
+      height="30"
+      width="40"
+      style="background-color:#0A66C2; padding:6px; border-radius:6px;"
       alt="github" height="30" width="40" />
   </a>
 
