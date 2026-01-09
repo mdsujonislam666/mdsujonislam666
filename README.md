@@ -60,12 +60,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdsujonislam666&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
+<h3 align="center">👀 Github Status</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsujonislam666&theme=tokyonight" />
 </p>
-
-<h3 align="left">👀 Github Status</h3>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
