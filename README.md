@@ -21,11 +21,11 @@
   </a>
 
   <a href="https://www.linkedin.com/in/md-shoayeb-islam-29b7393a4" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-    alt="linkedin" width="40" height="40"/>
-</a>
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      alt="linkedin" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
