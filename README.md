@@ -15,16 +15,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/mdshujon.islam.3705" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="facebook" height="30" width="40" />
+  <!-- GitHub -->
+  <a href="https://github.com/mdsujonislam666" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      alt="github" height="30" width="40" />
   </a>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/md-shoayeb-islam-29b7393a4" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="linkedin" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
