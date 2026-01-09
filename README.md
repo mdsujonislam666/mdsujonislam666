@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co.com/QFXFQcWv/cover-Photo.png" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Sujon</h1>
+<h1 align="center">Hi 👋, I'm Md Shoayeb Islam</h1>
 <h3 align="center">Passionate Web Developer focused on clean code</h3>
 
 <h3 align="left">👀 Current Status</h3>
