@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co.com/QFXFQcWv/cover-Photo.png" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Shoayeb Islam</h1>
+<h1 align="center">Hi, I'm Md Shoayeb Islam</h1>
 <h3 align="center">Passionate Web Developer focused on clean code</h3>
 
 <h3 align="left">👀 Current Status</h3>
@@ -64,6 +64,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsujonislam666&theme=tokyonight" />
 </p>
+
+<h3 align="left">👀 Github Status</h3>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
