@@ -6,6 +6,14 @@
 <h1 align="center">Hi, I'm Md Shoayeb Islam</h1>
 <h3 align="center">Passionate Web Developer focused on clean code</h3>
 
+<h3>About Me</h3>
+<p>
+  I am a passionate Web Developer who loves writing clean, reusable, and performance-optimized code.
+I have hands-on experience working with HTML, CSS, JavaScript, React.js, MongoDB, Firebase, and Next.js.
+Over the past few months, I have built several projects such as TrustEasy Loan and Islamic Corner.
+My goal is to create user-friendly and scalable web applications while continuously improving my skills.
+</p>
+
 <h3 align="left">👀 Current Status</h3>
 
 - 🔭 I’m currently working on **Web Development**
